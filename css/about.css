@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Solway&display=swap');
+
+
+/* font-family: 'Solway', serif;
+font-family: 'Lobster', cursive; */
+
+.about-main {
+    height: 800px;
+    width: 100%;
+    margin-top: 100px;
+} 
+.about-section{
+    width: 30%;
+    height: 700px;
+    float: left;
+    border: 1px solid black;
+    margin-left: 2%
+}
+
+.about-section p {
+    font-family: 'Lobster', cursive;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.about-section audio {
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+.about-img {
+    height: 300px;
+    width: 100%;
+}
+
+.about-section iframe {
+    height: 315px;
+    width: 100%;
+    display: block;
+
+}
